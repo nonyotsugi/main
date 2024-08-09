@@ -14,7 +14,7 @@ return {
   color_scheme = "Gruvbox dark, medium (base16)",
 
   -- background
-  window_background_opacity = 1.00,
+  window_background_opacity = 0.95,
   win32_system_backdrop = "Acrylic",
   window_background_gradient = {
     colors = { "#1D261B", "#261A25" },
@@ -29,7 +29,7 @@ return {
       source = { Color = "#1A1B26" },
       height = "100%",
       width = "100%",
-      opacity = 0.95,
+      opacity = 0.85,
     },
   },
 
@@ -60,8 +60,8 @@ return {
   integrated_title_button_style = "Windows",
   integrated_title_button_color = "auto",
   integrated_title_button_alignment = "Right",
-  initial_cols = 140,
-  initial_rows = 30,
+  initial_cols = 110,
+  initial_rows = 25,
   window_padding = {
     left = 5,
     right = 10,
